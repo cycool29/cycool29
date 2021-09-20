@@ -1,6 +1,14 @@
 ### Hi there 👋
 
+## My Github stats! 😉
 ![cycool29's GitHub stats](https://github-readme-stats.vercel.app/api?username=cycool29&show_icons=true&theme=dark&title_color=00ff00&text_color=00ff00&icon_color=00ff00&border_color=00ff00&bg_color=000000)
+
+## Most Used Languages! 😉
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=cycool29, cycool29.github.io)]
+
+<!-- (https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <!--
 **cycool29/cycool29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
