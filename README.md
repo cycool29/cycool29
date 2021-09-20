@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![cycool29's GitHub stats](https://github-readme-stats.vercel.app/api?username=cycool29&show_icons=true&theme=dark)
+
 <!--
 **cycool29/cycool29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
