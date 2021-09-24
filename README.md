@@ -1,4 +1,4 @@
-### Hi there <a href="https://github.com/cycool29/cycool29"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> 
+# Hi there <a href="https://github.com/cycool29/cycool29"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> 
 
 I am a script kiddy, currently learning Python, bash and some Javascript. 
 Owns a Raspberry Pi, and a Kali Linux hacking PC.
