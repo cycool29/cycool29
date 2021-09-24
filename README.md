@@ -10,7 +10,8 @@ Hope to have some programming buddies from Github!
 - 🤔 I’m looking for help with my [<img src="https://img.shields.io/static/v1?label=Github&message=whatsapp-for-linux&color=success&logo=github">](https://github.com/cycool29/whatsapp-for-linux) and [<img src="https://img.shields.io/static/v1?label=Github&message=microsoft-teams-for-linux&color=success&logo=github">](https://github.com/cycool29/microsoft-teams-for-linux) projects to tidy up the scripts.
 - 📫  How to reach me: [<img src="https://img.shields.io/static/v1?label=Gmail&message=cycool29@gmail.com&color=success&logo=gmail">](mailto:cycool29@gmail.com) ![Discord](https://img.shields.io/static/v1?label=Discord&message=cycool29%20%239961&color=success&logo=discord)
 - 👨‍💻  Building my own blog at [cycool29.github.io](https://cycool29.github.io)
-- ⚡  Fun fact: I ❤️ 🐶s
+
+
 
 ## My Github stats! 😉
 ![cycool29's GitHub stats](https://github-readme-stats.vercel.app/api?username=cycool29&show_icons=true&theme=dark&title_color=00ff00&text_color=00ff00&icon_color=00ff00&border_color=00ff00&bg_color=000000)
