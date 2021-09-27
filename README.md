@@ -12,17 +12,16 @@ Hope to have some programming buddies from Github!
 - 🤔 I’m looking for help with : Any good Python tutorials or books recommended? 
 - 📫  How to reach me: [<img src="https://img.shields.io/static/v1?label=Gmail&message=cycool29@gmail.com&color=success&logo=gmail">](mailto:cycool29@gmail.com) ![Discord](https://img.shields.io/static/v1?label=Discord&message=cycool29%20%239961&color=success&logo=discord)
 - 👨‍💻  Building my own blog at [cycool29.github.io](https://cycool29.github.io). 😁 
-
+- ⚡ Fun fact:  I am from Malaysia! 😁
 
 
 ## Github stats
-![cycool29's GitHub stats](https://github-readme-stats.vercel.app/api?username=cycool29&show_icons=true&theme=dark&title_color=00ff00&text_color=00ff00&icon_color=00ff00&border_color=00ff00&bg_color=000000)
+[<img src="https://github-readme-stats.vercel.app/api?username=cycool29&show_icons=true&theme=dark&title_color=00ff00&text_color=00ff00&icon_color=00ff00&border_color=00ff00&bg_color=000000">](https://github.com/cycool29)
 
 ## Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cycool29&exclude_repo=cycool29,cycool29.github.io&title_color=00ff00&text_color=00ff00&icon_color=00ff00&border_color=00ff00&bg_color=000000)
-
-
-
+[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cycool29&exclude_repo=cycool29,cycool29.github.io&title_color=00ff00&text_color=00ff00&icon_color=00ff00&border_color=00ff00&bg_color=000000">](https://github.com/cycool29)
+      
+      
 <!--
 **cycool29/cycool29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
