@@ -2,12 +2,13 @@
 
 I am just a beginner to programming 👨‍💻, and Github.\
 Owns a Raspberry Pi, and a Kali Linux hacking machine.\
-Believe that Raspberry Pi can be used as a **daily-used PC**.\
+Believes that Raspberry Pi can be used as a **daily-used PC**.\
 Hope to have some programming buddies from Github! 
 
 
 - 🔭  I’m currently working on : My personal blog 📝, Python coding competition 🏆
 - 🌱  I’m currently learning : ![](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![](https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=GNU%20Bash&logoColor=white)
+- 👯 I’m looking to collaborate on : Any projects related to <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?logo=Raspberry%20Pi&logoColor=white"> <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=GNU%20Bash&logoColor=white">
 - 💬  Ask me about anything related to : <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?logo=Raspberry%20Pi&logoColor=white"> <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=GNU%20Bash&logoColor=white">
 - 🤔 I’m looking for help with : Any good Python tutorials or books recommended? 
 - 📫  How to reach me: [<img src="https://img.shields.io/static/v1?label=Gmail&message=cycool29@gmail.com&color=success&logo=gmail">](mailto:cycool29@gmail.com) ![Discord](https://img.shields.io/static/v1?label=Discord&message=cycool29%20%239961&color=success&logo=discord)
