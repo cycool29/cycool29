@@ -1,10 +1,5 @@
 # Hi there <a href="https://github.com/cycool29/cycool29"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> 
 
-I am just a beginner to programming 👨‍💻, and Github.\
-Owns a Raspberry Pi, and a Kali Linux hacking machine.\
-Believes that Raspberry Pi can be used as a **daily-used PC**.\
-Hope to have some programming buddies from Github! 
-
 
 - 🔭  I’m currently working on : My personal blog 📝, Python coding competition 🏆
 - 🌱  I’m currently learning : ![](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![](https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=GNU%20Bash&logoColor=white)
