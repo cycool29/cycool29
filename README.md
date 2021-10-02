@@ -3,12 +3,12 @@
 
 - 🔭  I’m currently working on : My personal blog 📝, Python coding competition 🏆
 - 🌱  I’m currently learning : ![](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![](https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=GNU%20Bash&logoColor=white)
-- 👯 I’m looking to collaborate on : Any projects related to <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?logo=Raspberry%20Pi&logoColor=white"> <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=GNU%20Bash&logoColor=white">
+- 👯 I’m looking to collaborate on : Any information projects related to <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?logo=Raspberry%20Pi&logoColor=white"> <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=GNU%20Bash&logoColor=white">
 - 💬  Ask me about anything related to : <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?logo=Raspberry%20Pi&logoColor=white"> <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=GNU%20Bash&logoColor=white">
 - 🤔 I’m looking for help with : Any good Python tutorials or books recommended? 
 - 📫  How to reach me: [<img src="https://img.shields.io/static/v1?label=Gmail&message=cycool29@gmail.com&color=success&logo=gmail">](mailto:cycool29@gmail.com) ![Discord](https://img.shields.io/static/v1?label=Discord&message=cycool29%20%239961&color=success&logo=discord)
 - 👨‍💻  Building my own blog at [cycool29.github.io](https://cycool29.github.io). 😁 
-- ⚡ Fun fact:  I am from Malaysia! 😁
+- ⚡ Fun fact:  I love playing ukulele! 🎸
 
 
 ## Github stats
