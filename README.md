@@ -15,7 +15,7 @@
 [<img src="https://github-readme-stats.vercel.app/api?username=cycool29&show_icons=true&theme=dark&title_color=00ff00&text_color=00ff00&icon_color=00ff00&border_color=00ff00&bg_color=000000">](https://github.com/cycool29)
 
 ## Most Used Languages
-[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cycool29&exclude_repo=cycool29,cycool29.github.io&title_color=00ff00&text_color=00ff00&icon_color=00ff00&border_color=00ff00&bg_color=000000">](https://github.com/cycool29)
+[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cycool29&exclude_repo=cycool29,cycool29.github.io,fsnotifier-pycharm-rpi&title_color=00ff00&text_color=00ff00&icon_color=00ff00&border_color=00ff00&bg_color=000000">](https://github.com/cycool29)
       
       
 <!--
