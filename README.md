@@ -8,7 +8,7 @@
 - 🤔 I’m looking for help with : Any good Python tutorials or books recommended? 
 - 📫  How to reach me: [<img src="https://img.shields.io/static/v1?label=Gmail&message=cycool29@gmail.com&color=success&logo=gmail">](mailto:cycool29@gmail.com) ![Discord](https://img.shields.io/static/v1?label=Discord&message=cycool29%20%239961&color=success&logo=discord)
 - 👨‍💻  Building my own blog at [cycool29.github.io](https://cycool29.github.io). 😁 
-- ⚡ Fun fact:  I love playing ukulele! 🎸
+- ⚡ Fun fact:  I love playing ukulele! 🎸 Also, I am only 13 (as of 2021), not too young and not too old, lol.
 
 
 ## Github stats
