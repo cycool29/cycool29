@@ -1,7 +1,7 @@
 # Hi there <a href="https://github.com/cycool29/cycool29"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> 
 
 
-- 🔭  I’m currently working on : My personal blog 📝, Python coding competition 🏆
+- 🔭  I’m currently working on : My personal blog 📝
 - 🌱  I’m currently learning : ![](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![](https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=GNU%20Bash&logoColor=white)
 - 👯 I’m looking to collaborate on : Any information projects related to <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?logo=Raspberry%20Pi&logoColor=white"> <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=GNU%20Bash&logoColor=white">
 - 💬  Ask me about anything related to : <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?logo=Raspberry%20Pi&logoColor=white"> <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=GNU%20Bash&logoColor=white">
