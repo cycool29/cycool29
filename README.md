@@ -1,5 +1,5 @@
 # Hi there <a href="https://github.com/cycool29/cycool29"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> 
-
+![](https://bit.ly/profile-view-statictics)
 ![](https://hit.yhype.me/github/profile?user_id=88134003)
 - 🔭  I’m currently working on my blog 📝
 - 🌱  I’m currently learning : ![](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![](https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=GNU%20Bash&logoColor=white)
