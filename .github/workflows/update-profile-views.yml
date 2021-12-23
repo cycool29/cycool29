@@ -14,7 +14,8 @@ jobs:
       
       - name: Update Profile Views
         run: |
-          sed -i "s+views.*-success+views-$(curl -s -H "Authorization: Bearer ${{ secrets.BITLY_TOKEN }}" -X GET "https://api-ssl.bitly.com/v4/bitlinks/bit.ly/cycool29-profile/clicks/summary" 2>&1 | sed "s/.*total_clicks//" | sed s/units.*//g  | egrep -o [0-9.])-success+g" ./READ*          
+          curl -s -H "Authorization: Bearer ${{ secrets.BITLY_TOKEN }}" -X GET "https://api-ssl.bitly.com/v4/bitlinks/bit.ly/cycool29-profile/clicks/summary" 
+          #sed -i "s+views.*-success+views-$(curl -s -H "Authorization: Bearer ${{ secrets.BITLY_TOKEN }}" -X GET "https://api-ssl.bitly.com/v4/bitlinks/bit.ly/cycool29-profile/clicks/summary" 2>&1 | sed "s/.*total_clicks//" | sed s/units.*//g  | egrep -o [0-9.])-success+g" ./READ*          
           cat ./README.md
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git config user.name "github-actions[bot]"
