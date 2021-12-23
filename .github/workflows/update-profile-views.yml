@@ -16,6 +16,10 @@ jobs:
         run: |
           views="$(curl -s -H "Authorization: Bearer ${{ secrets.BITLY_TOKEN }}" -X GET "https://api-ssl.bitly.com/v4/bitlinks/bit.ly/cycool29-profile/clicks/summary" 2>&1 | sed "s/.*total_clicks//" | sed s/units.*//g  | egrep -o [0-9.])"
           echo "$views"
+          echo -e "\n"
+          echo "$views" |  tr -d '\n'
+          echo
+          echo ------------
           sed -i "s+views.*-success+views-$views-success+g" ./README.md          
           cat ./README.md
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
