@@ -2,7 +2,7 @@ name: Update profile Views
 
 on:
   schedule:
-    - cron: '59 23 * * *'
+    - cron: '*/5  * * * *'
   workflow_dispatch:
 
 jobs:
