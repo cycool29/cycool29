@@ -10,8 +10,8 @@
 - ⚡ Fun fact:  I love playing ukulele! 🎸 Also, I am only 13 (as of 2021), not too young and not too old, lol.
 
 
-## Profile Views
-[<img src="https://img.shields.io/badge/Profile%20views-8-success" height="50"/>](https://github.com/cycool29)
+## GitHub Profile Views
+[<img src="https://img.shields.io/badge/cycool29's GitHub Profile%20Views-8-success" height="50"/>](https://github.com/cycool29)
 
 
 ## GitHub Stats 
