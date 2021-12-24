@@ -2,9 +2,8 @@ name: Metrics
 on:
   # Schedule updates (each hour)
   schedule: [{cron: "0 * * * *"}]
-  # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
-  push: {branches: ["master", "main"]}
+  push: {branches: ["main"]}
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
@@ -30,7 +29,7 @@ jobs:
         run: |
           ls -A
           git pull
-          cat ./sample.svg | grep -v "footer>\|These metrics include private contributions\|Last updated" > ./github-metrics.svg
+          cat ./sample.svg | grep -v "footer>\|These metrics include private contributions\|Last updated" | sed s/'height="367"'/height="300"/g > ./github-metrics.svg
           rm ./sample.svg
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git config user.name "github-actions[bot]"
