@@ -9,13 +9,24 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@latest
+      - name: Checkout
+        uses: actions/checkout@v2
+      
+      - name: Remove files
+        run: |
+          rm ./*svg
+      
+      - name: Generate metrics
+        uses: lowlighter/metrics@latest
         with:
-          # Your GitHub token
+          filename: sample.svg
           token: ${{ secrets.METRICS_TOKEN }}
-
-          # Options
           user: cycool29
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Kuala_Lumpur
+      
+      - name: Remove footer message
+        run: |
+          cat ./sample.svg | grep -v "footer>\|These metrics include private contributions\|Last updated" > ./github-metrics.svg
+          rm ./sample.svg
