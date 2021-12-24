@@ -32,3 +32,8 @@ jobs:
           git pull
           cat ./sample.svg | grep -v "footer>\|These metrics include private contributions\|Last updated" > ./github-metrics.svg
           rm ./sample.svg
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+          git add -A
+          git diff-index --quiet HEAD || git commit -m "Update GitHub Metrics"
+          git push
