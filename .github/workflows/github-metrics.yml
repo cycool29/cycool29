@@ -29,5 +29,6 @@ jobs:
       - name: Remove footer message
         run: |
           ls -A
+          git pull
           cat ./sample.svg | grep -v "footer>\|These metrics include private contributions\|Last updated" > ./github-metrics.svg
           rm ./sample.svg
