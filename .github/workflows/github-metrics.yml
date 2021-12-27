@@ -29,7 +29,7 @@ jobs:
         run: |
           ls -A
           git pull
-          cat ./sample.svg | grep -v "footer>\|These metrics include private contributions\|Last updated" | sed 's/height="367"/height="345"/g' > ./github-metrics.svg
+          cat ./sample.svg | grep -v "footer>\|These metrics include private contributions\|Last updated" | sed 's/height="367"/height="310"/g' > ./github-metrics.svg
           rm ./sample.svg
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git config user.name "github-actions[bot]"
