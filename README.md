@@ -1,5 +1,6 @@
 # Hi there <a href="https://github.com/cycool29/cycool29"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> 
 
+
 - 🔭  I’m currently working on my blog 📝
 - 🌱  I’m currently learning Python and Bash
 - 👯 I’m looking to collaborate on any projects related to Raspberry Pi and Bash
