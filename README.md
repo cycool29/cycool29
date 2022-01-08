@@ -1,6 +1,10 @@
 # Hi there <a href="https://github.com/cycool29/cycool29"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> 
 
 
+**Your money support is the greatest motivation for me to make good projects!**
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/cycool29)
+
 - 🔭  I’m currently working on my blog 📝
 - 🌱  I’m currently learning Python and Bash
 - 👯 I’m looking to collaborate on any projects related to Raspberry Pi and Bash
@@ -19,5 +23,5 @@
 ![GitHub Metrics](https://github.com/cycool29/cycool29/blob/main/github-metrics.svg)
 
 ## Most Used Languages
-[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cycool29&exclude_repo=cycool29,cycool29.github.io,fsnotifier-pycharm-rpi&title_color=00ff00&text_color=00ff00&icon_color=00ff00&border_color=00ff00&bg_color=000000">](https://github.com/cycool29) ![](https://bit.ly/cycool29-profile)
+[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cycool29&exclude_repo=cycool29,cycool29.github.io,fsnotifier-pycharm-rpi,hacker-theme-linux,hacker-theme-geany&title_color=00ff00&text_color=00ff00&icon_color=00ff00&border_color=00ff00&bg_color=000000">](https://github.com/cycool29) ![](https://bit.ly/cycool29-profile)
 
