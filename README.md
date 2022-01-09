@@ -1,7 +1,7 @@
 # Hi there <a href="https://github.com/cycool29/cycool29"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> 
 
 
-**Your money support is the greatest motivation for me to make good projects!**
+### **Your money support is the greatest motivation for me to make good projects!**
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/cycool29)
 
@@ -15,7 +15,7 @@
 
 
 ## GitHub Profile Views
-[<img src="https://img.shields.io/badge/cycool29's GitHub Profile%20Views-240-success" height="50"/>](https://github.com/cycool29)
+[<img src="https://img.shields.io/badge/cycool29's GitHub Profile%20Views-237-success" height="50"/>](https://github.com/cycool29)
 
 
 ## GitHub Metrics 
