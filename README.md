@@ -15,7 +15,7 @@
 
 
 ## GitHub Profile Views
-[<img src="https://img.shields.io/badge/cycool29's GitHub Profile%20Views-256-success" height="50"/>](https://github.com/cycool29)
+[<img src="https://img.shields.io/badge/cycool29's GitHub Profile%20Views-260-success" height="50"/>](https://github.com/cycool29)
 
 
 ## GitHub Metrics 
