@@ -7,8 +7,7 @@
 
 Or, 
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/cycool29)
-
+<a href="https://www.buymeacoffee.com/capscode" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-black.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
 - 🔭  I’m currently working on my blog 📝
 - 🌱  I’m currently learning Python and Bash
