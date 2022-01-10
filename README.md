@@ -3,7 +3,7 @@
 
 ### **Your money support is the greatest motivation for me to make good projects!**
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/cycool29)
+[![ko-fi](https://github.com/cycool29/cycool29/raw/main/githubbutton_sm.svg)](https://ko-fi.com/cycool29)
 
 - 🔭  I’m currently working on my blog 📝
 - 🌱  I’m currently learning Python and Bash
