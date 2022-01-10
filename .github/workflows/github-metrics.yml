@@ -11,10 +11,6 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
       
-      - name: Remove files
-        run: |
-          rm ./*svg
-      
       - name: Generate metrics
         uses: lowlighter/metrics@latest
         with:
