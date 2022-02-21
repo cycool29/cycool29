@@ -10,7 +10,7 @@ For more interesting posts, visit [cycool29.github.io](https://cycool29.github.i
 
 - 🔭  I’m currently working on my blog 📝
 - 🌱  I’m currently learning Python and Bash
-- 👯 I’m looking to collaborate on any projects related to Raspberry Pi and Bash
+- 👯  I’m looking to collaborate on any projects related to Raspberry Pi and Bash
 - 💬  Ask me about anything related to Raspberry Pi and Bash
 - 👨‍💻  Currently active contributing to [Pi Apps](https://github.com/Botspot/pi-apps).
 
@@ -33,11 +33,6 @@ For more interesting posts, visit [cycool29.github.io](https://cycool29.github.i
 ![image](https://user-images.githubusercontent.com/88134003/154879703-20a40bf5-0054-40a7-b763-26e4f467138d.png)
 ![image](https://user-images.githubusercontent.com/88134003/154879715-3a9243ab-9718-434c-8944-0e7aa980e14c.png)
 ![image](https://user-images.githubusercontent.com/88134003/154879729-23a34865-2cc9-4121-a928-677df0aaccf7.png)
-
-
-## How to Reach Me
-
-[![image](https://user-images.githubusercontent.com/88134003/154879782-45471bb7-da73-40fb-b0c7-9512abd82561.png)](https://twitter.com/cycool29)
 
 
 ## Support Me
