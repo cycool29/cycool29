@@ -1,10 +1,13 @@
 # Hi there <a href="https://github.com/cycool29/cycool29"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> 
 
 ## 📝 Latest Blog Posts 
+- [Pi-Apps - The most powerful app store for Raspberry Pi](https://cycool29.github.io/post/000003)
 - [How to make a GitHub Profile views counter using Bitly link](https://cycool29.github.io/post/000002)
 - [Use keyboard, mouse and monitor from external PC for your Raspberry Pi](https://cycool29.github.io/post/000001)
 
-For more interesting posts, visit [cycool29.github.io](https://cycool29.github.io)! Currently updating roughly every two weeks.
+For more interesting posts, visit [cycool29.github.io](https://cycool29.github.io)! 😎    
+You may also [subscribe](https://cycool29.github.io/subscribe) to my email list and you will get an email whenever I have a new post!    
+Currently updating roughly every **two weeks**.    
 
 ## ⚡ Status 
 
