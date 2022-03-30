@@ -45,8 +45,4 @@ If my projects or blog posts helped you, consider buy me a coffee!
 
 [![ko-fi](https://github.com/cycool29/cycool29/raw/main/githubbutton_sm.svg)](https://ko-fi.com/cycool29) 
 
-Or, 
-
-<a href="https://www.buymeacoffee.com/cycool29" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-black.png" alt="Buy Me A Coffee" height="41" width="174"></a>
-
 Thanks!
