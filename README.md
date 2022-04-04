@@ -43,6 +43,6 @@ Currently updating roughly every **two weeks**.
 
 If my projects or blog posts helped you, consider buy me a coffee!
 
-[![ko-fi](https://github.com/cycool29/cycool29/raw/main/githubbutton_sm.svg)](https://ko-fi.com/cycool29) 
+[![ko-fi](https://github.com/cycool29/cycool29/raw/main/ko-fi.png)](https://ko-fi.com/cycool29) 
 
 Thanks!
