@@ -1,6 +1,7 @@
 # Hi there <a href="https://github.com/cycool29/cycool29"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> 
 
 ## 📝 Latest Blog Posts 
+- [ConfigParser - manage user-editable settings for your Python programs](https://cycool29.github.io/post/000005)
 - [Understanding `__init__` Method in Python](https://cycool29.github.io/post/000004)
 - [Pi-Apps - The most powerful app store for Raspberry Pi](https://cycool29.github.io/post/000003)
 - [How to make a GitHub Profile views counter using Bitly link](https://cycool29.github.io/post/000002)
