@@ -32,15 +32,13 @@ Currently updating roughly every **two weeks**.
 [<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cycool29&exclude_repo=joyfulmco,cycool29,cycool29.github.io,fsnotifier-pycharm-rpi,hacker-theme-linux,hacker-theme-geany&title_color=00ff00&text_color=00ff00&icon_color=00ff00&border_color=00ff00&bg_color=000000">](https://github.com/cycool29) ![](https://bit.ly/cycool29-profile)
 
 
-## Favourite Tech
-
-![image](https://user-images.githubusercontent.com/88134003/154879681-15663b0c-f590-47d8-bbbd-4626c031975c.png)
-![image](https://user-images.githubusercontent.com/88134003/154879703-20a40bf5-0054-40a7-b763-26e4f467138d.png)
-![image](https://user-images.githubusercontent.com/88134003/154879715-3a9243ab-9718-434c-8944-0e7aa980e14c.png)
-![image](https://user-images.githubusercontent.com/88134003/154879729-23a34865-2cc9-4121-a928-677df0aaccf7.png)
+## 😉 Favourite Tech
+<a href='https://cycool29.github.io'>
+<img src=https://user-images.githubusercontent.com/88134003/164481605-03cf1f2c-fd98-43a8-83c2-a4f6fae1d8bd.png width=48 height=48/> <img src=https://user-images.githubusercontent.com/88134003/164481675-61cc400e-cb48-4141-81a6-5ddc0726b9f7.png width=48 height=48/> <img src=https://user-images.githubusercontent.com/88134003/164481556-34307069-ddbd-4877-8734-839f0ed15d8f.png width=48 height=48/> <img src=https://user-images.githubusercontent.com/88134003/164481726-405dca37-08db-4f5a-af25-5e9bcd964a8b.png width=48 height=48/> <img src=https://user-images.githubusercontent.com/88134003/164481954-a2a0a920-8be5-4989-a3c7-cdb4f7039a94.png width=48 height=48/> <img src=https://user-images.githubusercontent.com/88134003/164481997-45d9fc04-4ea5-491b-a721-b04f30cf207b.png width=48 height=48/> <img src=https://user-images.githubusercontent.com/88134003/164482087-d6369ea8-5cbe-4b2b-8c1e-d98862929ef2.png width=48 height=48/> <img src=https://user-images.githubusercontent.com/88134003/164482132-80906ca2-130e-4afa-9eec-f31a69c22fb0.png width=48 height=48/> <img src=https://user-images.githubusercontent.com/88134003/164482159-6625733a-45ba-4e4d-886c-a2dc63d5a244.png width=48 height=48/>
+</a>
 
 
-## Support Me
+## ☕ Support Me
 
 If my projects or blog posts helped you, consider buy me a coffee!
 
