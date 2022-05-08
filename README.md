@@ -13,11 +13,10 @@ Currently updating roughly every **two weeks**.
 
 ## ⚡ Status 
 
-- 🔭  I’m currently working on my blog 📝
-- 🌱  I’m currently learning Python and Bash
-- 👯  I’m looking to collaborate on any projects related to Raspberry Pi and Bash
-- 💬  Ask me about anything related to Raspberry Pi and Bash
-- 👨‍💻  Currently active contributing to [Pi Apps](https://github.com/Botspot/pi-apps).
+- 🔭  I’m currently working on [CoffeeTime](https://github.com/cycool29/CoffeeTime) ☕
+- 🌱  I’m currently learning Python
+- 👯  I’m looking to collaborate on any projects related to Raspberry Pi and Bash and Python
+- 💬  Ask me about anything related to Raspberry Pi and Bash and Python
 
 
 ## 👀 GitHub Profile Views
