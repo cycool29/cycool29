@@ -1,4 +1,6 @@
-# Hi there <a href="https://github.com/cycool29/cycool29"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> 
+# Hi there <a href="https://github.com/cycool29"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> 
+
+
 
 ## 📝 Latest Blog Posts 
 - [ConfigParser - manage user-editable settings for your Python programs](https://cycool29.github.io/post/000005)
@@ -32,9 +34,7 @@ Currently updating roughly every **two weeks**.
 
 
 ## 😉 Favourite Tech
-<a href='https://cycool29.github.io'>
 <img src=https://user-images.githubusercontent.com/88134003/164481605-03cf1f2c-fd98-43a8-83c2-a4f6fae1d8bd.png width=48 height=48/> <img src=https://user-images.githubusercontent.com/88134003/164481675-61cc400e-cb48-4141-81a6-5ddc0726b9f7.png width=48 height=48/> <img src=https://user-images.githubusercontent.com/88134003/164481556-34307069-ddbd-4877-8734-839f0ed15d8f.png width=48 height=48/> <img src=https://user-images.githubusercontent.com/88134003/164481726-405dca37-08db-4f5a-af25-5e9bcd964a8b.png width=48 height=48/> <img src=https://user-images.githubusercontent.com/88134003/164481954-a2a0a920-8be5-4989-a3c7-cdb4f7039a94.png width=48 height=48/> <img src=https://user-images.githubusercontent.com/88134003/164481997-45d9fc04-4ea5-491b-a721-b04f30cf207b.png width=48 height=48/> <img src=https://user-images.githubusercontent.com/88134003/164482087-d6369ea8-5cbe-4b2b-8c1e-d98862929ef2.png width=48 height=48/> <img src=https://user-images.githubusercontent.com/88134003/164482132-80906ca2-130e-4afa-9eec-f31a69c22fb0.png width=48 height=48/> <img src=https://user-images.githubusercontent.com/88134003/164482159-6625733a-45ba-4e4d-886c-a2dc63d5a244.png width=48 height=48/>
-</a>
 
 
 ## ☕ Support Me
