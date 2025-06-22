@@ -1,74 +1,111 @@
+/* Import fancy Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@500&family=Poppins:wght@300;600&display=swap');
+
+/* Global settings */
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
   scroll-behavior: smooth;
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 body {
-  background: linear-gradient(135deg, #f5f7fa, #c3cfe2);
-  color: #333;
+  background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
+  color: #fff;
+  font-family: 'Poppins', sans-serif;
   padding: 40px 20px;
   min-height: 100vh;
+  overflow-x: hidden;
 }
 
-/* Fancy heading */
+/* Page heading */
 h1 {
   text-align: center;
-  font-size: 3rem;
-  color: #2c3e50;
-  animation: fadeIn 2s ease-in-out;
+  font-size: 3.2rem;
+  font-family: 'Orbitron', sans-serif;
   margin-bottom: 20px;
+  color: #00fff7;
+  text-shadow: 0 0 10px #00fff7;
+  animation: floatIn 1.5s ease-out;
 }
 
-@keyframes fadeIn {
-  0% { opacity: 0; transform: translateY(-20px); }
+@keyframes floatIn {
+  0% { opacity: 0; transform: translateY(-50px); }
   100% { opacity: 1; transform: translateY(0); }
 }
 
 p {
-  max-width: 800px;
-  margin: 10px auto;
-  line-height: 1.8;
+  max-width: 900px;
+  margin: 20px auto;
+  line-height: 1.9;
   font-size: 1.1rem;
+  text-align: center;
+  color: #e0f7fa;
+  animation: fadeIn 1s ease-in-out;
 }
 
-/* Container for database table mimic */
-.table-container {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  gap: 20px;
+/* Layout container */
+.container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 25px;
   margin-top: 30px;
+  padding: 0 20px;
 }
 
-/* Card record */
-.record {
-  background: white;
-  border-radius: 15px;
-  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
-  padding: 20px;
-  width: 280px;
-  transition: transform 0.3s ease, box-shadow 0.3s ease;
+/* Student record card */
+.student-record {
+  background: rgba(255, 255, 255, 0.08);
+  border-radius: 20px;
+  padding: 25px;
+  backdrop-filter: blur(10px);
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.3);
+  transition: transform 0.4s ease, box-shadow 0.4s ease;
+  border: 1px solid rgba(255, 255, 255, 0.15);
+  animation: fadeSlideIn 0.8s ease forwards;
+  opacity: 0;
 }
 
-.record:hover {
-  transform: translateY(-5px);
-  box-shadow: 0 12px 25px rgba(0, 0, 0, 0.15);
+.student-record:hover {
+  transform: translateY(-10px) scale(1.02);
+  box-shadow: 0 15px 30px rgba(0, 255, 247, 0.3);
+  border-color: #00fff7;
 }
 
-.record h3 {
+@keyframes fadeSlideIn {
+  0% { opacity: 0; transform: translateY(20px); }
+  100% { opacity: 1; transform: translateY(0); }
+}
+
+/* Record content styles */
+.student-record strong {
+  display: block;
+  margin-top: 10px;
+  font-weight: 600;
+  color: #ffffff;
+}
+
+.student-record br {
   margin-bottom: 10px;
-  font-size: 1.4rem;
-  color: #34495e;
 }
 
-.record code {
-  background-color: #f0f0f0;
-  padding: 3px 6px;
+.student-record::before {
+  content: "💾";
+  display: block;
+  font-size: 2rem;
+  margin-bottom: 10px;
+}
+
+/* Label-like look */
+.student-record span {
+  display: inline-block;
+  background-color: #00fff7;
+  color: #000;
+  font-size: 0.85rem;
+  font-weight: 600;
+  padding: 2px 8px;
   border-radius: 4px;
-  font-size: 0.9rem;
+  margin: 2px 4px 6px 0;
 }
 
 /* Footer */
@@ -76,33 +113,21 @@ footer {
   margin-top: 60px;
   text-align: center;
   font-size: 0.9rem;
-  color: #888;
+  color: #aaa;
+  font-style: italic;
 }
 
-/* Button styling */
-button, .btn {
-  background: #3498db;
-  color: white;
-  border: none;
-  padding: 10px 18px;
-  border-radius: 8px;
-  cursor: pointer;
-  transition: background 0.3s ease, transform 0.2s ease;
-  font-size: 1rem;
-}
-
-button:hover, .btn:hover {
-  background: #2980b9;
-  transform: scale(1.05);
-}
-
-/* Responsive abit */
+/* Responsive Typography */
 @media (max-width: 768px) {
   h1 {
     font-size: 2.2rem;
   }
 
-  .record {
-    width: 90%;
+  p {
+    font-size: 1rem;
+  }
+
+  .student-record {
+    padding: 20px;
   }
 }
