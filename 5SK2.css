@@ -3,131 +3,209 @@
 
 /* Global settings */
 * {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-  scroll-behavior: smooth;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
 }
 
 body {
-  background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
-  color: #fff;
-  font-family: 'Poppins', sans-serif;
-  padding: 40px 20px;
-  min-height: 100vh;
-  overflow-x: hidden;
+    background: linear-gradient(135deg, rgba(15, 32, 39, 0.9), rgba(173, 198, 209, 0.9)),
+        url('https://cdn.jsdelivr.net/gh/cycool29/cycool29@main/5SK2.jpg') no-repeat center center fixed;
+    background-size: cover;
+    color: #fff;
+    font-family: 'Poppins', sans-serif;
+    padding: 40px 20px;
+    min-height: 100vh;
+    overflow-x: hidden;
 }
+
 
 /* Page heading */
 h1 {
-  text-align: center;
-  font-size: 3.2rem;
-  font-family: 'Orbitron', sans-serif;
-  margin-bottom: 20px;
-  color: #00fff7;
-  text-shadow: 0 0 10px #00fff7;
-  animation: floatIn 1.5s ease-out;
+    text-align: center;
+    font-size: 3.2rem;
+    font-family: 'Orbitron', sans-serif;
+    margin-bottom: 20px;
+    color: #00fff7;
+    text-shadow: 0 0 10px #00fff7;
+    animation: floatIn 1.5s ease-out;
 }
 
 @keyframes floatIn {
-  0% { opacity: 0; transform: translateY(-50px); }
-  100% { opacity: 1; transform: translateY(0); }
+    0% {
+        opacity: 0;
+        transform: translateY(-50px);
+    }
+
+    100% {
+        opacity: 1;
+        transform: translateY(0);
+    }
 }
 
 p {
-  max-width: 900px;
-  margin: 20px auto;
-  line-height: 1.9;
-  font-size: 1.1rem;
-  text-align: center;
-  color: #e0f7fa;
-  animation: fadeIn 1s ease-in-out;
+    max-width: 900px;
+    margin: 20px auto;
+    line-height: 1.9;
+    font-size: 1.1rem;
+    text-align: center;
+    color: #e0f7fa;
+    animation: fadeIn 1s ease-in-out;
 }
 
-/* Layout container */
 .container {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-  gap: 25px;
-  margin-top: 30px;
-  padding: 0 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 30px;
+    margin-top: 30px;
+    padding: 0 20px;
 }
 
 /* Student record card */
 .student-record {
-  background: rgba(255, 255, 255, 0.08);
-  border-radius: 20px;
-  padding: 25px;
-  backdrop-filter: blur(10px);
-  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.3);
-  transition: transform 0.4s ease, box-shadow 0.4s ease;
-  border: 1px solid rgba(255, 255, 255, 0.15);
-  animation: fadeSlideIn 0.8s ease forwards;
-  opacity: 0;
+    position: relative;
+    background: rgba(255, 255, 255, 0.08);
+    border-radius: 20px;
+    padding: 25px;
+    backdrop-filter: blur(8px);
+    -webkit-backdrop-filter: blur(8px);
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.3);
+    transition: transform 0.4s ease, box-shadow 0.4s ease;
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    overflow: hidden;
+    width: 90%;
+    max-width: 800px;
+    font-size: 1.15rem;
+    line-height: 1.8;
 }
 
+
+.student-record strong {
+    font-size: 1.2rem;
+}
+
+p,
+.static-info,
+.hidden-info {
+    font-size: 1.15rem;
+}
+
+
 .student-record:hover {
-  transform: translateY(-10px) scale(1.02);
-  box-shadow: 0 15px 30px rgba(0, 255, 247, 0.3);
-  border-color: #00fff7;
+    transform: translateY(-10px) scale(1.02);
+    box-shadow: 0 15px 30px rgba(0, 255, 247, 0.3);
+    border-color: #00fff7;
+}
+
+/* Always-visible content */
+.student-record .static-info {
+    color: #fff;
+    line-height: 1.6;
+}
+
+/* Hover-revealed hidden info */
+.student-record .hidden-info {
+    opacity: 0;
+    max-height: 0;
+    transform: translateY(20px);
+    transition: all 0.4s ease;
+    overflow: hidden;
+}
+
+/* Reveal on hover */
+.student-record:hover .hidden-info {
+    opacity: 1;
+    max-height: 500px;
+    transform: translateY(0);
+    margin-top: 10px;
 }
 
 @keyframes fadeSlideIn {
-  0% { opacity: 0; transform: translateY(20px); }
-  100% { opacity: 1; transform: translateY(0); }
+    0% {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+
+    100% {
+        opacity: 1;
+        transform: translateY(0);
+    }
 }
 
 /* Record content styles */
 .student-record strong {
-  display: block;
-  margin-top: 10px;
-  font-weight: 600;
-  color: #ffffff;
+    display: block;
+    margin-top: 10px;
+    font-weight: 600;
+    color: #ffffff;
 }
 
 .student-record br {
-  margin-bottom: 10px;
+    margin-bottom: 10px;
 }
 
-.student-record::before {
-  content: "💾";
-  display: block;
-  font-size: 2rem;
-  margin-bottom: 10px;
+.photo-div {
+    width: 90%;
+    max-width: 800px;
+    height: 300px;
+    margin: 80px auto 30px;
+    background: url('https://cdn.jsdelivr.net/gh/cycool29/cycool29@main/5SK2.jpg') no-repeat center;
+    background-size: cover;
+    border: 3px solid #00fff7;
+    border-radius: 20px;
+    box-shadow: 0 12px 30px rgba(0, 0, 0, 0.4);
+    transition: transform 0.3s ease;
 }
+
+
+.photo-div:hover {
+    transform: scale(1.03);
+}
+
+.photo-caption {
+    text-align: center;
+    font-size: 1.2rem;
+    color: #00fff7;
+    margin-top: 10px;
+    font-weight: 500;
+}
+
+
 
 /* Label-like look */
 .student-record span {
-  display: inline-block;
-  background-color: #00fff7;
-  color: #000;
-  font-size: 0.85rem;
-  font-weight: 600;
-  padding: 2px 8px;
-  border-radius: 4px;
-  margin: 2px 4px 6px 0;
+    display: inline-block;
+    background-color: #00fff7;
+    color: #000;
+    font-size: 0.85rem;
+    font-weight: 600;
+    padding: 2px 8px;
+    border-radius: 4px;
+    margin: 2px 4px 6px 0;
 }
 
 /* Footer */
 footer {
-  margin-top: 60px;
-  text-align: center;
-  font-size: 0.9rem;
-  color: #aaa;
-  font-style: italic;
+    margin-top: 60px;
+    text-align: center;
+    font-size: 0.9rem;
+    color: #aaa;
+    font-style: italic;
 }
 
 /* Responsive Typography */
 @media (max-width: 768px) {
-  h1 {
-    font-size: 2.2rem;
-  }
+    h1 {
+        font-size: 2.2rem;
+    }
 
-  p {
-    font-size: 1rem;
-  }
+    p {
+        font-size: 1rem;
+    }
 
-  .student-record {
-    padding: 20px;
-  }
+    .student-record {
+        padding: 20px;
+    }
 }
